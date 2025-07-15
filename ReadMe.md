@@ -41,6 +41,3 @@
   </a>
 </p>
 
-<p align="center">
-  <sub>🛠️ Built with ❤️ using <a href="https://gprm.itsvg.in" target="_blank">GPRM</a></sub>
-</p>
