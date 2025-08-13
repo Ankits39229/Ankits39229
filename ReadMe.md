@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/Ankits39229">
-    <img src="https://komarev.com/ghpvc/?username=Ankits39229&label=Profile%20views&color=0e75b6&style=flat" alt="Ankits39229" />
-  </a>
-  <a href="https://twitter.com/your_handle">
-    <img src="https://img.shields.io/twitter/follow/your_handle?logo=twitter&style=flat" alt="twitter" />
+    <img src="https://komarev.com/ghpvc/?username=Ankits39229&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a><!--
+  --><a href="https://ankitkumarsingh.me" title="Visit My Portfolio" style="margin-left:8px; display:inline-block;">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0e75b6?style=flat&logo=firefox-browser&logoColor=white" alt="Visit My Portfolio" />
   </a>
 </p>
 
@@ -29,23 +29,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Ankits39229">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankits39229&show_icons=true&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/Ankits39229">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankits39229&layout=compact&theme=transparent&hide_border=true" />
-  </a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ankits39229&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ankits39229&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankits39229&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankits39229&theme=flat&no-frame=true&margin-w=10" />
-</p>
-
+![](https://github-profile-trophy.vercel.app/?username=Ankits39229&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
 ### 🔥 Contribution Streak
@@ -56,24 +50,8 @@
 
 ---
 
-### 🚀 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ankits39229&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%" />
-</p>
-
----
-
-### 📈 Visitor Count
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Ankits39229&icon=5&color=12" />
-  </a>
-</p>
-
----
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ankits39229&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <h3 align="center">📊 My GitHub Contribution Graph</h3>
